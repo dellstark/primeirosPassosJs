@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.fundo{
+    text-align: center;
+    padding: 10px;
+    background-color: aqua;
+}
+.imc{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
